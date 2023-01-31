@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.37843167.css",
-    "main.js": "/static/js/main.9b039130.js",
-    "static/media/hometogo.png": "/static/media/hometogo.90885a5cf9e301500f15.png",
-    "static/media/mamaearth.png": "/static/media/mamaearth.928ef69a43167e486834.png",
+    "main.css": "/static/css/main.86b4e127.css",
+    "main.js": "/static/js/main.e0bc401b.js",
+    "static/media/myntra.png": "/static/media/myntra.ac69fbcf938688f3eae0.png",
+    "static/media/kfc.png": "/static/media/kfc.84fd05e533f8ca17629b.png",
+    "static/media/shoppingcart.png": "/static/media/shoppingcart.5351997fc7caa0eed86d.png",
     "static/media/zara.png": "/static/media/zara.4b5267b6373db2750ccb.png",
+    "static/media/weather.png": "/static/media/weather.da349db920be7fb6c3c8.png",
     "static/media/postman.png": "/static/media/postman.91690925a2050c5fa76c.png",
     "static/media/ExpressJS.png": "/static/media/ExpressJS.058639fa73ccba6be52d.png",
     "static/media/herotwo.jpg": "/static/media/herotwo.b0e66382555fb9243476.jpg",
@@ -16,11 +18,11 @@
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.37843167.css.map": "/static/css/main.37843167.css.map",
-    "main.9b039130.js.map": "/static/js/main.9b039130.js.map"
+    "main.86b4e127.css.map": "/static/css/main.86b4e127.css.map",
+    "main.e0bc401b.js.map": "/static/js/main.e0bc401b.js.map"
   },
   "entrypoints": [
-    "static/css/main.37843167.css",
-    "static/js/main.9b039130.js"
+    "static/css/main.86b4e127.css",
+    "static/js/main.e0bc401b.js"
   ]
 }
