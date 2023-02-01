@@ -43,7 +43,7 @@ const Experience = () => {
       title: "Tailwind",
       style: "shadow-cyan-400",
     },
-    
+
     {
       id: 8,
       src: github,
@@ -56,7 +56,7 @@ const Experience = () => {
       title: "Redux",
       style: "shadow-purple-500",
     },
-    
+
   ];
 
   return (
@@ -69,7 +69,7 @@ const Experience = () => {
           <p className="text-4xl text-blue-600 font-bold border-b-4 border-gray-500 p-2 inline">
             Skills
           </p>
-          <p className="text-4xl text-blue-600 font-bold border-b-4 border-gray-500 p-2 inline">
+          <p className="text-4xl text-blue-600 font-bold border-b-4 border-gray-500 p-2 inline mt-10">
             Frontend
           </p>
           <p className="py-6">These are the technologies I've worked with and used them in my projects.</p>

@@ -26,14 +26,15 @@ const NavBar = () => {
       id: 5,
       link: "contact",
     },
-    
+
+
   ];
 
   return (
     <div className="flex justify-between items-center w-full h-20 px-4 text-blue-600 bg-slate-200 fixed nav">
       <div>
-       
-        <h1 className="text-5xl font-signature ml-2"><a className="link-underline link-underline-black" href="https://ChanchalS7.github.io:" target="_blank" rel="noreferrer">Chanchal</a></h1>
+
+        <h1 className="text-5xl font-signature ml-2"><a className="link-underline link-underline-black" href="https://ChanchalS7.github.io:" target="_blank" rel="noreferrer">CV</a></h1>
       </div>
 
       <ul className="hidden md:flex">
@@ -47,7 +48,9 @@ const NavBar = () => {
             </Link>
           </li>
         ))}
+
       </ul>
+
 
       <div
         onClick={() => setNav(!nav)}
@@ -71,11 +74,16 @@ const NavBar = () => {
               >
                 {link}
               </Link>
+
             </li>
           ))}
+
         </ul>
       )}
-    </div>
+      <li><button style={{ color: "blue", padding: "10px", border: "2px solid blue", borderRadius: "5px" }}><a className='resume' href="https://drive.google.com/file/d/12ht8IyWpAibo-mxtsWF2jqeg9Xrawo81/view?usp=share_link" target='_blank'>
+        Resume
+      </a></button></li>
+    </div >
   );
 };
 

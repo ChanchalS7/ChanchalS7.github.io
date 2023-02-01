@@ -2,7 +2,7 @@ import React from "react";
 import { HiOutlineMail } from "react-icons/hi";
 
 //function for form reset
-function handleSubmit(e){
+function handleSubmit(e) {
   setTimeout(() => {
     e.target.reset();
   }, 3000);
@@ -19,23 +19,23 @@ const Contact = () => {
           <p className="text-4xl text-blue-600 font-bold inline border-b-4 border-gray-500">
             Contact
           </p>
-         
+
           <p className="py-6">Submit the form below to get in touch with me</p>
           <div className="flex items-center">
-          <p><HiOutlineMail size={30}/></p>
-          <p className="oldstyle-nums">chsverma7@gmail.com</p>
+            <p><HiOutlineMail size={30} /></p>
+            <p className="oldstyle-nums">chsverma7@gmail.com</p>
           </div>
         </div>
-       
+
         <div className=" flex justify-center items-center">
           <form
             onSubmit={handleSubmit}
             name="contact"
             method="POST"
-            action="https://getform.io/f/a5bbeab4-3505-457e-bcda-603c8bc15711"
+            action="https://getform.io/f/fc1b5d33-69e0-4f4b-9cf6-18244ef35f2e"
             className=" flex flex-col w-full md:w-1/2"
           >
-            
+
             <input
               type="text"
               name="name"

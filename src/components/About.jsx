@@ -15,21 +15,22 @@ const About = () => {
         <p className="text-xl mt-5 text-gray-600">
           Hello! My name is Chanchal Verma and I am a Full Stack Web developer working on both, Backend and Frontend Technology. I am open to develop web products and excited to learn new tech stack.<br /> <br />
           I'm a passionate Developer, with strong administrative and communication skills, with proficient software developement skills using, MERN Stack.
+          I have an experience of 9 months as an Instructional Associate at Masai School. In Masai I mentored more many numbers of students to get skilled in MERN Stack and DSA problem solving. I helped them or guide them to acheive their dream.
         </p>
 
         <br />
 
         <p className="text-xl text-gray-600">
-        
 
 
-I am interested to write code from scratch and keen excited to design and develop web products, maintain it, have optimized problem solving skills, As I growing as Full Stack developer and looking forward to work with organization
-where I would you to contribute on technology where I can contribute to make human life easy.
+
+          I am interested to write code from scratch and keen excited to design and develop web products, maintain it, have optimized problem solving skills, As I growing as Full Stack developer and looking forward to work with organization
+          where I would you to contribute on technology where I can contribute to make human life easy.
 
 
 
         </p>
-        
+
       </div>
     </div>
   );
