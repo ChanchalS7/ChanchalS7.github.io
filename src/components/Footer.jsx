@@ -69,7 +69,7 @@ function Footer() {
           <FiPhoneCall size="30" />
 
         </p>
-        <p>8770516540</p>
+        <p>+918770516540,+919074929843</p>
       </div>
       <div className="flex items-center justify-center mt-5 gap-5">
         <p><HiOutlineMail size={30} /></p>

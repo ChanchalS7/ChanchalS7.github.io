@@ -41,7 +41,7 @@ const NavBar = () => {
         {links.map(({ id, link }) => (
           <li
             key={id}
-            className="nav-links px-4 cursor-pointer capitalize font-medium text-black-500 hover:scale-105 hover:text-red-500 duration-200 link-underline"
+            className="nav-links px-8 cursor-pointer capitalize font-medium text-black-500 hover:scale-105 hover:text-red-500 duration-200 link-underline"
           >
             <Link to={link} smooth duration={400}>
               {link}
@@ -78,11 +78,14 @@ const NavBar = () => {
             </li>
           ))}
 
+
+
+
         </ul>
       )}
-      <li><button style={{ color: "blue", padding: "10px", border: "2px solid blue", borderRadius: "5px" }}><a className='resume' href="https://drive.google.com/file/d/12ht8IyWpAibo-mxtsWF2jqeg9Xrawo81/view?usp=share_link" target='_blank'>
+      <button style={{ color: "blue", padding: "10px", borderRadius: "5px" }}><a className='resume' href="https://drive.google.com/drive/folders/1RM_yqlyE9hlwAqff63uGLGpOixdxKj5R?usp=share_link" target='_blank'>
         Resume
-      </a></button></li>
+      </a></button>
     </div >
   );
 };

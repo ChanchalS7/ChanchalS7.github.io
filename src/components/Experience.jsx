@@ -3,8 +3,10 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import nextjs from "../assets/tailwind.png";
-import github from "../assets/git.png";
+import tailwind from "../assets/tailwind.png";
+// import github from "../assets/git.png";
+import nextjs from "../assets/nextjs.png";
+import typescript from "../assets/typescript.jpg";
 // import node from "../assets/node.png";
 // import express from "../assets/ExpressJS.png"
 // import mongodb from "../assets/mongodb.png"
@@ -39,23 +41,29 @@ const Experience = () => {
     },
     {
       id: 6,
-      src: nextjs,
+      src: tailwind,
       title: "Tailwind",
       style: "shadow-cyan-400",
     },
 
     {
       id: 8,
-      src: github,
-      title: "GitHub",
-      style: "shadow-orange-200",
+      src: nextjs,
+      title: "Nextjs",
+      style: "shadow-black-1000",
     },
     {
       id: 12,
       src: redux,
       title: "Redux",
       style: "shadow-purple-500",
-    },
+    }, {
+      id: 13,
+      src: typescript,
+      title: "TypeScript",
+      style: "shadow-blue-500",
+
+    }
 
   ];
 

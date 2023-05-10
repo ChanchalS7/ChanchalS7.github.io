@@ -18,7 +18,7 @@
 }
 
 body {
-  background: rgb(31, 41, 55); 
+  background: rgb(31, 41, 55);
 }
 
 .nav {
@@ -49,7 +49,7 @@ body {
 
 .portfolio,
 .contact {
-  margin-top: 8%;
+  /* margin-top: 8%; */
 }
 
 .experience {
@@ -77,9 +77,9 @@ body {
   .home {
     text-align: center;
     height: 100%;
-    
+
   }
-  
+
 
   .about,
   .portfolio,
