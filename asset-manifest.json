@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.6383230e.css",
-    "main.js": "/static/js/main.6d477ab1.js",
+    "main.css": "/static/css/main.436c3f5f.css",
+    "main.js": "/static/js/main.afc33210.js",
     "static/media/myntra.png": "/static/media/myntra.ac69fbcf938688f3eae0.png",
     "static/media/kfc.png": "/static/media/kfc.84fd05e533f8ca17629b.png",
+    "static/media/ChanchalVerma_Resume.pdf": "/static/media/ChanchalVerma_Resume.e9c04691697e9bc002a8.pdf",
     "static/media/shoppingcart.png": "/static/media/shoppingcart.5351997fc7caa0eed86d.png",
     "static/media/zara.png": "/static/media/zara.4b5267b6373db2750ccb.png",
     "static/media/weather.png": "/static/media/weather.da349db920be7fb6c3c8.png",
-    "static/media/ChanchalVerma_Resume.pdf": "/static/media/ChanchalVerma_Resume.ea4364d93a6308132b8b.pdf",
     "static/media/postman.png": "/static/media/postman.91690925a2050c5fa76c.png",
     "static/media/ExpressJS.png": "/static/media/ExpressJS.058639fa73ccba6be52d.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -21,11 +21,11 @@
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.6383230e.css.map": "/static/css/main.6383230e.css.map",
-    "main.6d477ab1.js.map": "/static/js/main.6d477ab1.js.map"
+    "main.436c3f5f.css.map": "/static/css/main.436c3f5f.css.map",
+    "main.afc33210.js.map": "/static/js/main.afc33210.js.map"
   },
   "entrypoints": [
-    "static/css/main.6383230e.css",
-    "static/js/main.6d477ab1.js"
+    "static/css/main.436c3f5f.css",
+    "static/js/main.afc33210.js"
   ]
 }
