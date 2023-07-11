@@ -41,8 +41,8 @@ const Home = () => {
           </p>
           <p className="text-black py-4 max-w-md">
             I love to write code about developing web products.
-            I love to solve real world problem through web.
-            I'm working on MERN Stack and developing products using these tech stack.....
+            I enjoy using the web to solve real-world problems.
+            I'm working on the MERN stack and developing products using this tech stack.
 
           </p>
 

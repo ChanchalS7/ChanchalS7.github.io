@@ -55,10 +55,7 @@ function Footer() {
             key={id}
 
           >
-            <a
-              href={href}
-              target='_blank'
-            >
+            <a href={href} target='_blank'>
               {child}
             </a>
           </div>
